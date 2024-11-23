@@ -1,8 +1,8 @@
-# React + Vite
+#  A Pixel Art Club of Purdue (A PAC of P)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+We are one of the pixel art clubs of Purdue! We do not know if any pixel art specific clubs exist, but many other art or animation clubs do exist. However, we specialize in pixel art. Currently, the club is comprised of a small group of friends but always willing to expand and incorporate more people into our journies, and into their journies, of learning pixel art!
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Socials
+Discord: https://discord.gg/AVvuVWWSta
+Instagram: 
+Website Link:
